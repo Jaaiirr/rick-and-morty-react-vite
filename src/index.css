@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+
+#root {
+  font-family: 'Poor Story', cursive;
+}
+
+.header-text {
+  color: #062a51;
+  font-size: 24px;
+}
